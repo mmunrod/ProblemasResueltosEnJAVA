@@ -1,5 +1,3 @@
-
-import java.util.Scanner;
 /*
  One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their
  opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided 
@@ -10,6 +8,8 @@ import java.util.Scanner;
  tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the
  watermelon in the way they want. For sure, each of them should get a part of positive weight.
  */
+
+import java.util.Scanner;
 
 public class Watermelon
 {  /*La suma de dos numeros pares nunca dará un número impar entonces w % 2 == 0 (con una excepción).
